@@ -1,0 +1,88 @@
+{
+    "items":[
+        {
+            "id":1,
+            "title": "watch product",
+            "class": "watch",
+            "price": 10.99,
+            "image": "image/image 1.jfif"
+        },
+        {
+            "id":2,
+            "title": "watch product",
+            "class": "watch",
+            "price": 14.99,
+            "image": "image/watch 2.jfif"
+        },
+        {
+            "id":3,
+            "title": "car product",
+            "class": "car",
+            "price": 70.99,
+            "image": "image/car 1.jfif"
+        },
+        {
+            "id":4,
+            "title": "car product",
+            "class": "car",
+            "price": 100.99,
+            "image": "image/car 2.jfif"
+        },
+        {
+            "id":5,
+            "title": "moto product",
+            "class": "moto",
+            "price": 54.99,
+            "image": "image/moto 1.jfif"
+        },
+        {
+            "id":6,
+            "title": "moto product",
+            "class": "moto",
+            "price": 76.99,
+            "image": "image/moto 2.jfif"
+        },
+        {
+            "id":7,
+            "title": "shirt product",
+            "class": "shirt",
+            "price": 4.99,
+            "image": "image/shirt 1.jfif"
+        },
+        {
+            "id":8,
+            "title": "car product",
+            "class": "car",
+            "price": 231.99,
+            "image": "image/car 3.jfif"
+        },
+        {
+            "id":9,
+            "title": "shirt product",
+            "class": "shirt",
+            "price": 54.99,
+            "image": "image/shirt 2.jfif"
+        },
+        {
+            "id":10,
+            "title": "shirt product",
+            "class": "shirt",
+            "price": 19.99,
+            "image": "image/shirt 3.jfif"
+        },
+        {
+            "id":11,
+            "title": "moto product",
+            "class": "moto",
+            "price": 88.99,
+            "image": "image/moto 3.jfif"
+        },
+        {
+            "id":12,
+            "title": "watch product",
+            "class": "watch",
+            "price": 10.99,
+            "image": "image/watch 3.jfif"
+        }
+    ]
+}
